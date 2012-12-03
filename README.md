@@ -17,7 +17,7 @@ Create a php-5.3 application (you can call your application whatever you want)
 Add this upstream openshift-symfony repo
 
     cd symfonyphp
-    git remote add upstream -m master git://github.com/eschabell/openshift-symfony.git
+    git remote add upstream -m master git://github.com/pulsation/openshift-symfony.git
     git pull -s recursive -X theirs upstream master
     
 Then push the repo upstream
